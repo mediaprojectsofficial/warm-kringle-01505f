@@ -4,7 +4,7 @@ import Footer from '../components/site/Footer'
 
 import '../styles.css'
 
-const SITE_URL = 'https://indiancalculatorhub.netlify.app'
+const SITE_URL = 'https://indiancalchub.online'
 
 export const Route = createRootRoute({
   head: () => ({
