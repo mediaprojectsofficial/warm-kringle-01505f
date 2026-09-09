@@ -5,7 +5,7 @@ import AdSlot from './AdSlot'
 import RelatedCalculators from './RelatedCalculators'
 import { getRelatedCalculators, type CalcMeta } from '../../lib/calc-data'
 
-const SITE_URL = 'https://indiancalculatorhub.netlify.app'
+const SITE_URL = 'https://indiancalchub.online'
 
 interface CalcLayoutProps {
   meta: CalcMeta
