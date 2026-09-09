@@ -43,10 +43,10 @@ function Home() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'Indian Calculator Hub',
-    url: 'https://indiancalculatorhub.netlify.app',
+    url: 'https://indiancalchub.online',
     potentialAction: {
       '@type': 'SearchAction',
-      target: 'https://indiancalculatorhub.netlify.app/?q={search_term_string}',
+      target: 'https://indiancalchub.online/?q={search_term_string}',
       'query-input': 'required name=search_term_string',
     },
   }
@@ -62,7 +62,7 @@ function Home() {
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-base text-slate-600">
             EMI, SIP, Income Tax, GST, BMI and more &mdash; fast, accurate and mobile-friendly
-            calculators with Indian Rupee (₹) formatting and FY 2025-26 tax rules.
+            calculators with Indian Rupee (₹) formatting and FY 2026-27 tax rules.
           </p>
 
           <div className="mx-auto mt-8 max-w-xl">
