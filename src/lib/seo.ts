@@ -1,4 +1,4 @@
-const SITE_URL = 'https://indiancalculatorhub.netlify.app'
+const SITE_URL = 'https://indiancalchub.online'
 const SITE_NAME = 'Indian Calculator Hub'
 
 export function pageHead({
