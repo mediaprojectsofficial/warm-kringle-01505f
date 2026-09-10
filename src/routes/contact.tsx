@@ -45,7 +45,7 @@ function ContactPage() {
       <h1 className="text-3xl font-bold text-slate-900">Contact Us</h1>
       <p className="mt-3 text-sm text-slate-600">
         Have a question, feedback, or a calculator request? Fill out the form below or email us
-        at <a href="mailto: mediaprojects.official@gmail.com" className="text-emerald-700 underline">hello@indiancalculatorhub.com</a>.
+        at <a href="mailto: indiancalculatorhub@gmail.com" className="text-emerald-700 underline">indiancalculatorhub@gmail.com</a>.
       </p>
 
       {status === 'done' ? (
