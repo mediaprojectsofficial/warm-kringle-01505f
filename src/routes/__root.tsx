@@ -22,7 +22,7 @@ export const Route = createRootRoute({
       { property: 'og:site_name', content: 'Indian Calculator Hub' },
       { name: 'theme-color', content: '#059669' },
     ],
-    links: [{ rel: 'icon', href: '/favicon.ico' }],
+    links: [{ rel: 'icon', href: '/favicon.png' }],
   }),
   shellComponent: RootDocument,
   notFoundComponent: NotFound,
@@ -75,7 +75,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
               '@type': 'Organization',
               name: 'Indian Calculator Hub',
               url: SITE_URL,
-              logo: `${SITE_URL}/favicon.ico`,
+              logo: `${SITE_URL}/favicon.png`,
             }),
           }}
         />
